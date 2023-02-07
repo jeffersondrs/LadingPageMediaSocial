@@ -89,7 +89,10 @@ function App() {
           <footer className="bg-black/20 font-medium" id="footer">
             <span className="copyright">
               &copy; Lading Page Designed and edit by:{" "}
-              <a href="#">JEFFERSONDRS</a>.
+              <a href="https://www.linkedin.com/in/jeffersondrs/">
+                JEFFERSONDRS
+              </a>
+              .
             </span>
           </footer>
         </div>
