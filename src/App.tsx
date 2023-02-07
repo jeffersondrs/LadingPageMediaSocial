@@ -1,7 +1,13 @@
 import "./App.css";
 
 import "./assets/css/main.css";
-import { BsTwitter, BsWhatsapp, BsFacebook, BsGithub, BsLinkedin } from "react-icons/bs";
+import {
+  BsTwitter,
+  BsWhatsapp,
+  BsFacebook,
+  BsGithub,
+  BsLinkedin,
+} from "react-icons/bs";
 import { SiGmail } from "react-icons/si";
 
 function App() {
@@ -34,8 +40,9 @@ function App() {
                     href="https://www.facebook.com/jefferson.duarteramos.1"
                     className="icon brands"
                   >
-                    <BsFacebook></BsFacebook>
-                    <span className="label">Facebook</span>
+                    <BsFacebook>
+                      <span className="label">Facebook</span>
+                    </BsFacebook>
                   </a>
                 </li>
                 <li>
@@ -66,11 +73,13 @@ function App() {
                   </a>
                 </li>
                 <li>
-                  <a href="https://wa.me/+55021973152800" className="icon brands">
+                  <a
+                    href="https://wa.me/+55021973152800"
+                    className="icon brands"
+                  >
                     <BsWhatsapp>
                       <span className="label">Whatsapp</span>
                     </BsWhatsapp>
-                    
                   </a>
                 </li>
               </ul>
