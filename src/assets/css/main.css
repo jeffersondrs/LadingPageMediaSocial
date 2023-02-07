@@ -789,7 +789,7 @@ a:hover {
 }
 
 #header nav a:active {
-  font-size: 2.5rem;
+  font-size: 0.95em;
   background: none;
 }
 
