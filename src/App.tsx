@@ -1,5 +1,5 @@
 import "./App.css";
-import "./assets/AppStyles/App.scss";
+
 import "./assets/css/main.css";
 import { BsTwitter, BsWhatsapp, BsFacebook, BsGithub, BsLinkedin } from "react-icons/bs";
 import { SiGmail } from "react-icons/si";
