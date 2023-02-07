@@ -789,7 +789,7 @@ a:hover {
 }
 
 #header nav a:active {
-  font-size: 0.95em;
+  font-size: 2.5rem;
   background: none;
 }
 
@@ -833,9 +833,7 @@ a:hover {
   width: 100%;
   display: flex;
   justify-content: center;
-  align-items: center;
-
-
+  a  font-size: 0.95em;
 }
 
 @media screen and (max-width: 1680px) {
