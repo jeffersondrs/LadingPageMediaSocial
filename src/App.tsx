@@ -34,8 +34,10 @@ function App() {
                     href="https://www.facebook.com/jefferson.duarteramos.1"
                     className="icon brands"
                   >
-                    <BsFacebook></BsFacebook>
+                    <BsFacebook>
+                      
                     <span className="label">Facebook</span>
+                    </BsFacebook>
                   </a>
                 </li>
                 <li>
@@ -59,7 +61,7 @@ function App() {
                   </a>
                 </li>
                 <li>
-                  <a href="https://gmail.com/" className="icon solid">
+                  <a href="mailto:jeffersonduarte@id.uff.br" className="icon solid">
                     <SiGmail>
                       <span className="label">Email</span>
                     </SiGmail>
