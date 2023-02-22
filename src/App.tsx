@@ -7,7 +7,7 @@ function App() {
     <div className="App is-preload">
       <div id="wrapper">
         <div id="bg"></div>
-        {/* <div id="overlay"></div> */}
+        <div id="overlay"></div>
         <Main />
       </div>
     </div>
